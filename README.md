@@ -1,4 +1,14 @@
-# interfaces-rs
+# DEPRECATED
+
+
+
+i no longer use rust due to lack of portability, but "interfaces" is maintained again, so use that.
+
+ https://crates.io/crates/interfaces 
+
+
+
+## interfaces-rs
 
 [![Build Status](https://travis-ci.org/aep/interfaces-rs.svg?branch=master)](https://travis-ci.org/aep/interfaces-rs)
 [![Crate](https://img.shields.io/crates/v/interfaces2.svg)](https://crates.io/crates/interfaces2)
@@ -9,7 +19,7 @@ cross-platform manner.
 
 forked from the abondoned andrew-d/interfaces-rs
 
-# Example
+## Example
 
 Add this to your `Cargo.toml`:
 
@@ -26,6 +36,6 @@ extern crate interfaces2 as interfaces;
 use interfaces::Interface;
 ```
 
-# License
+## License
 
 MIT or Apache 2.0
